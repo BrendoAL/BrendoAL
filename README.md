@@ -12,7 +12,7 @@
   <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img align="right" alt="brendo-gato" src="https://s2.glbimg.com/lskcwVINYvURncI-HBynfD83oGU=/607x426/smart/e.glbimg.com/og/ed/f/original/2018/03/19/keyboard.gif"
+  <img align="right" alt="brendo-gato" height="125" wifth="125" src="https://s2.glbimg.com/lskcwVINYvURncI-HBynfD83oGU=/607x426/smart/e.glbimg.com/og/ed/f/original/2018/03/19/keyboard.gif"
 </div>
   
   <br>
