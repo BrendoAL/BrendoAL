@@ -1,8 +1,5 @@
 ## Olá, eu sou o Brendo Almeida
 
-- 🔭 Hoje procuro uma oportunidade de estágio 
-- 🌱 Atualmente estudando JavaScript
-
 <div align="center">
   <a href="https://github.com/BrendoAL">
   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
