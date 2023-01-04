@@ -1,14 +1,12 @@
-## Olá, eu sou o BrendoAL
+## Olá, eu sou o Brendo Almeida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach m
+- 🔭 Hoje procuro uma oportunidade de estágio 
+- 🌱 Atualmente estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/BrendoAL">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&langs_count=7&theme=dark"/>
+  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
