@@ -1,6 +1,5 @@
 ### Hello, I´m Brendo Almeida 
  <img align="right" alt="persona-gato" height="125" wifth="125" src="https://64.media.tumblr.com/0b4adf76d070982c8d1e3b6b612c2171/tumblr_p1iiy2edOX1vgzd4so1_500.gifv"> 
- ***
 
 ### 👾 About Me
 I am a computer science student who loves learning and growing, i have experience with Java and its technologies.
