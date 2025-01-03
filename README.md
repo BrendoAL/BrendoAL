@@ -1,5 +1,4 @@
-#  🧑‍💻
-## Olá, eu sou o Brendo Almeida
+### 🧑‍💻 Olá, eu sou o Brendo Almeida
 
 <div align="center">
   <a href="https://github.com/BrendoAL">
@@ -9,12 +8,16 @@
 
   ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img align="right" alt="brendo-gato" height="125" wifth="125" src="https://64.media.tumblr.com/0b4adf76d070982c8d1e3b6b612c2171/tumblr_p1iiy2edOX1vgzd4so1_500.gifv"
+  <img align="right" alt="brendo-gato" height="125" wifth="125" src="https://64.media.tumblr.com/0b4adf76d070982c8d1e3b6b612c2171/tumblr_p1iiy2edOX1vgzd4so1_500.gifv">
+            
 </div>
 
   
