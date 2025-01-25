@@ -1,5 +1,5 @@
 ### Hello, I´m Brendo Almeida 
- <img align="right" alt="lambda" height="125" wifth="125" src="[https://64.media.tumblr.com/0b4adf76d070982c8d1e3b6b612c2171/tumblr_p1iiy2edOX1vgzd4so1_500.gifv](https://www.deviantart.com/dragonshadesx/art/Half-Life-Lambda-723460585)"> 
+ <img align="right" alt="lambda" height="125" wifth="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
 
 ### 👾 About Me
 I am a computer science student who loves learning and growing, i have experience with Java and its technologies.
