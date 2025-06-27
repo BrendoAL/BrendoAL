@@ -1,14 +1,14 @@
 ### Hello, I´m Brendo Almeida 
  <img align="right" alt="lambda" height="125" wifth="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
 
-### 👾 About Me
+### 🤖 About Me
 
 I'm Brendo Almeida, a passionate Computer Science student with a strong focus on backend development.  
 I love learning new technologies, solving problems, and building efficient, scalable applications with Java and Spring Boot.
 
 
 ***
-### 🤖 Core Skills
+### 💻Languages/Tools used:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -20,16 +20,16 @@ I love learning new technologies, solving problems, and building efficient, scal
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />        
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" height="30" wifth="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">           
+  <img align="center" height="30" wifth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" height="30" wifth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
 </div>
   <br>
   <br>
 
 ---
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/BrendoAL">
@@ -40,7 +40,7 @@ I love learning new technologies, solving problems, and building efficient, scal
 
 ---
 
-### 🤝 Connect with Me
+### 🌐 Connect with Me
 
 Feel free to reach out to me via LinkedIn or email!  
 I'm open to new opportunities and collaborations.
