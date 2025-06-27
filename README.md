@@ -29,14 +29,16 @@ I love learning new technologies, solving problems, and building efficient, scal
   <br>
 
 ---
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/BrendoAL">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&title_color=FF8008&text_color=FFC837&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&langs_count=7&title_color=FF8008&text_color=FFC837&bg_color=0D1117"/>
   </a>
 </div>
+
 
 ---
 
