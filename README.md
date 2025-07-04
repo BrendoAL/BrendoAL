@@ -3,8 +3,8 @@
 
 ### 🤖 About Me
 
-I'm Brendo Almeida, a passionate Computer Science student with a strong focus on backend development.  
-I love learning new technologies, solving problems, and building efficient, scalable applications with Java and Spring Boot.
+I'm Brendo Almeida, a passionate Computer Science developer with a strong focus on backend development.  
+I love learning new technologies, solving problems, and building efficient, scalable applications.
 
 
 ***
