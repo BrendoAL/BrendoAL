@@ -1,14 +1,14 @@
 ### Hello, I´m Brendo Almeida 
  <img align="right" alt="lambda" height="125" wifth="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
 
-### 🤖 About Me
+### 🤖 Sobre mim
 
-I'm Brendo Almeida, a passionate Computer Science developer with a strong focus on backend development.  
-I love learning new technologies, solving problems, and building efficient, scalable applications.
+Sou um desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento backend.
+Tenho experiência na criação de APIs RESTful robustas e escaláveis, utilizando arquiteturas de software e padrões de projeto para garantir a eficiência dos produtos.
 
 
 ***
-### 💻Languages/Tools used:
+### 💻 Linguagens/Ferramentas usadas:
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -22,8 +22,8 @@ I love learning new technologies, solving problems, and building efficient, scal
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />        
   <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" wifth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" height="50" wifth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
 </div>
   <br>
   <br>
@@ -42,7 +42,7 @@ I love learning new technologies, solving problems, and building efficient, scal
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Contate-me
 
 Feel free to reach out to me via LinkedIn or email!  
 I'm open to new opportunities and collaborations.
