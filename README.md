@@ -1,5 +1,5 @@
 ### Hello, I´m Brendo Almeida 
- <img align="right" alt="lambda" height="125" wifth="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
+ <img align="right" alt="lambda" height="125" width="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
 
 ### 🤖 Sobre mim
 
