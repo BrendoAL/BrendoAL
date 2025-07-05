@@ -4,7 +4,7 @@
 ### 🤖 Sobre mim
 
 Sou um desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento backend.
-Tenho experiência na criação de APIs RESTful robustas e escaláveis, utilizando arquiteturas de software e padrões de projeto para garantir a eficiência dos produtos.
+Tenho experiência na criação de APIs REST robustas e escaláveis, utilizando arquiteturas de software e padrões de projeto para garantir a eficiência dos produtos.
 
 
 ***
@@ -42,19 +42,14 @@ Tenho experiência na criação de APIs RESTful robustas e escaláveis, utilizan
 
 ---
 
-### 🌐 Contate-me
+## 🌐 Contate-me
 
-Feel free to reach out to me via LinkedIn or email!  
-I'm open to new opportunities and collaborations.
+Sinta-se à vontade para me chamar no LinkedIn ou enviar um e-mail 
+Estou aberto a novas oportunidades e colaborações.
 
-<div>
-  <a href="https://www.linkedin.com/in/brendoalmeidalk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="Brendoalmeidalk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendoalmeidalk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Brendoalmeidalk@gmail.com)
+
 
 
 
