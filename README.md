@@ -14,12 +14,9 @@ Tenho experiência na criação de APIs robustas e escaláveis, utilizando arqui
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" />
   <img align="center" height="50" width="40" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=1F51FF" />
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -48,11 +45,9 @@ Tenho experiência na criação de APIs robustas e escaláveis, utilizando arqui
 
 Estou sempre disponível para novas oportunidades, colaborações e principalmente feedbacks de meus projetos.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F51FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendoalmeidalk/)  
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1F51FF)](mailto:Brendoalmeidalk@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F51FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendoalmeidalk/)  [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1F51FF)](mailto:Brendoalmeidalk@gmail.com)  
 
 
-![Snake animation](https://github.com/BrendoAL/BrendoAL/blob/output/snake-dark.svg)
 
 
 
