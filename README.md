@@ -52,6 +52,7 @@ Estou sempre disponível para novas oportunidades, colaborações e principalmen
 [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1F51FF)](mailto:Brendoalmeidalk@gmail.com)  
 
 
+![Snake animation](https://github.com/BrendoAL/BrendoAL/blob/output/snake-dark.svg)
 
 
 
