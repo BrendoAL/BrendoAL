@@ -1,56 +1,82 @@
-### <span style="color:#1F51FF">Hello, I´m Brendo Almeida</span>  
- <img align="right" alt="lambda" height="125" width="125" src="https://wallpapers.com/images/high/half-life-lambda-logo-on-orange-s1j95wfd196jam5v.webp"> 
-
-### 🤖 <span style="color:#1F51FF">Sobre mim</span>
-
-Sou um desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas, especializado em desenvolvimento backend.  
-Tenho experiência na criação de APIs robustas e escaláveis, utilizando arquiteturas de software e padrões de projeto para garantir a eficiência dos produtos.
-
----
-
-### 💻 <span style="color:#1F51FF">Linguagens/Ferramentas usadas:</span>
-<div style="display: inline_block"><br>
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" height="50" width="40" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=1F51FF" />
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
+# <div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1B5E20&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Brendo+Almeida;Desenvolvedor+Fullstack;" alt="Typing SVG" />
+  </h1>
+  
 </div>
-  <br>
-  <br>
+
+## 😼 <span style="color:#1B5E20">**Sobre mim**</span>
+
+Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência na criação de APIs e Websites, utilizando as melhores práticas de arquitetura de software e padrões de projeto para garantir a máxima eficiência dos produtos.
 
 ---
 
-### 📊 <span style="color:#1F51FF">GitHub Stats</span>
+## 💻 <span style="color:#1B5E20">**Stack**</span>
 
 <div align="center">
-  <a href="https://github.com/BrendoAL">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&title_color=1F51FF&icon_color=1F51FF&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&langs_count=7&title_color=1F51FF&text_color=FFFFFF&bg_color=0D1117"/>
-  </a>
+  
+### 🏗️ Backend & Infraestrutura
+<div style="display: inline_block">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" height="60" width="60" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=1B5E20" />
+</div>
+
+### ☁️ DevOps & Ferramentas
+<div style="display: inline_block">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+</div>
+
+### 🎨 Frontend & Web
+<div style="display: inline_block">
+  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
+</div>
+
 </div>
 
 ---
 
-## 🌐 <span style="color:#1F51FF">Contate-me</span>
+## 🌟 <span style="color:#1B5E20">**Atividade Recente**</span>
 
-Estou sempre disponível para novas oportunidades, colaborações e principalmente feedbacks de meus projetos.  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrendoAL&bg_color=0D1117&color=FFFFFF&line=1B5E20&point=1B5E20&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F51FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendoalmeidalk/)  [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1F51FF)](mailto:Brendoalmeidalk@gmail.com)  
+---
 
+## 🌐 <span style="color:#1B5E20">**Conecte-se Comigo**</span>
 
+<div align="center">
+  
+Estou sempre disponível para novas oportunidades, colaborações e principalmente feedbacks de meus projetos!
 
+<p align="center">
+  <a href="https://brendoal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-1B5E20?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/brendoalmeidalk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Brendoalmeidalk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1B5E20" alt="Gmail"/>
+  </a>
+</p>
 
+</div>
 
+---
 
-
-
+<div align="center">
+  
+  <h3 style="color:#1B5E20">💚 Obrigado pela visita!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=1B5E20&center=true&vCenter=true&width=500&height=50&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!;Let's+build+something+amazing+together!" alt="Closing Message" />
+</div>
