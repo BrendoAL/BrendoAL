@@ -1,17 +1,17 @@
 # <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1B5E20&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Brendo+Almeida;Desenvolvedor+Fullstack;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Brendo+Almeida;Desenvolvedor+Fullstack;" alt="Typing SVG" />
   </h1>
   
 </div>
 
-## 😼 <span style="color:#1B5E20">**Sobre mim**</span>
+## 😼 <span style="color:#E53935">**Sobre mim**</span>
 
 Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência na criação de APIs e Websites, utilizando as melhores práticas de arquitetura de software e padrões de projeto para garantir a máxima eficiência dos produtos.
 
 ---
 
-## 💻 <span style="color:#1B5E20">**Stack**</span>
+## 💻 <span style="color:#E53935">**Stack**</span>
 
 <div align="center">
   
@@ -21,7 +21,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-  <img align="center" height="60" width="60" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=1B5E20" />
+  <img align="center" height="60" width="60" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=E53935" />
 </div>
 
 ### ☁️ DevOps & Ferramentas
@@ -45,15 +45,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
 
 ---
 
-## 🌟 <span style="color:#1B5E20">**Atividade Recente**</span>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrendoAL&bg_color=0D1117&color=FFFFFF&line=1B5E20&point=1B5E20&area=true&hide_border=true&radius=10" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌐 <span style="color:#1B5E20">**Conecte-se Comigo**</span>
+## 🌐 <span style="color:#E53935">**Conecte-se Comigo**</span>
 
 <div align="center">
   
@@ -61,13 +53,13 @@ Estou sempre disponível para novas oportunidades, colaborações e principalmen
 
 <p align="center">
   <a href="https://brendoal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-1B5E20?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-E53935?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/brendoalmeidalk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B5E20?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Brendoalmeidalk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=1B5E20" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Gmail"/>
   </a>
 </p>
 
@@ -77,6 +69,6 @@ Estou sempre disponível para novas oportunidades, colaborações e principalmen
 
 <div align="center">
   
-  <h3 style="color:#1B5E20">💚 Obrigado pela visita!</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=1B5E20&center=true&vCenter=true&width=500&height=50&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!;Let's+build+something+amazing+together!" alt="Closing Message" />
+  <h3 style="color:#E53935">❤️ Obrigado pela visita!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=E53935&center=true&vCenter=true&width=500&height=50&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!;Let's+build+something+amazing+together!" alt="Closing Message" />
 </div>
