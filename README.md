@@ -5,7 +5,7 @@
   
 </div>
 
-## 😼 <span style="color:#E53935">**Sobre mim**</span>
+## 👨‍💻 <span style="color:#E53935">**Sobre mim**</span>
 
 Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência na criação de APIs e Websites, utilizando as melhores práticas de arquitetura de software e padrões de projeto para garantir a máxima eficiência dos produtos.
 
@@ -15,7 +15,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
 
 <div align="center">
   
-### 🏗️ Backend & Infraestrutura
+###  Backend & Infraestrutura
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -24,7 +24,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
   <img align="center" height="50" width="50" src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=E53935" />
 </div>
 
-### ☁️ DevOps & Ferramentas
+### DevOps & Ferramentas
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
@@ -34,7 +34,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </div>
 
-### 🎨 Frontend & Web
+### Frontend & Web
 <div style="display: inline_block">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -55,14 +55,14 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
 Estou sempre disponível para novas oportunidades, colaborações e principalmente feedbacks de meus projetos!
 
 <p align="center">
-  <a href="https://brendoal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-E53935?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/brendoalmeidalk/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Brendoalmeidalk@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Gmail"/>
+  </a>
+   <a href="https://brendoal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-E53935?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
