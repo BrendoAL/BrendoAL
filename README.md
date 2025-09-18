@@ -44,6 +44,11 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
   <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">           
 </div>
 
+## 📊 <span style="color:#E53935">**GitHub Stats**</span>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendoal&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=E53935&text_color=E7E7E7&icon_color=E53935" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendoal&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=E53935&text_color=E7E7E7&icon_color=E53935" />
 </div>
 
 ---
