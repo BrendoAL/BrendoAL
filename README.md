@@ -64,13 +64,13 @@ Estou sempre disponível para novas oportunidades, colaborações e principalmen
     <img src="https://img.shields.io/badge/LinkedIn-E53935?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:Brendoalmeidalk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=E53935" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-E53935?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://brendoal.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-E53935?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://gitlab.com/BrendoALM" target="_blank">
-    <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=E53935" alt="GitLab"/>
+    <img src="https://img.shields.io/badge/GitLab-E53935?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
   </a>
 </p>
 
