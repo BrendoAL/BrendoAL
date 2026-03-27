@@ -68,11 +68,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia. Tenho experiência n
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&bg_color=0d1117&title_color=6ec1e4&text_color=9ecae1&icon_color=6ec1e4&border_color=6ec1e4"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&bg_color=0d1117&title_color=6ec1e4&text_color=9ecae1&border_color=6ec1e4"/>
-</div>
-
-<div align="center">
   
   <h3 style="color:#E53935">❤️ Obrigado pela visita!</h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=E53935&center=true&vCenter=true&width=500&height=50&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!;Let's+build+something+amazing+together!" alt="Closing Message" />
