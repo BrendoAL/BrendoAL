@@ -16,9 +16,8 @@
 <br/>
 
 <div align="center">
-  <h3>Sobre Mim</h3>
   <p align="justify">
-    Desenvolvedor Full-stack focado na criação de APIs robustas e interfaces web. Trabalho com arquitetura de microsserviços, monólitos e implantação em containers, priorizando performance, escalabilidade e código limpo.
+    Full-stack developer focused on creating robust APIs and web interfaces, i work with microservices architecture, monoliths, and container deployment, prioritizing performance, scalability, and clean code.
   </p>
 </div>
 
@@ -27,7 +26,7 @@
 <table>
   <tr>
     <td width="65%" align="center">
-      <br><b>Minhas Tecnologias & Ferramentas</b><br><br>
+      <br><b>Stacks</b><br><br>
       <div align="center">
         <br><br>
         <img title="Java" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
