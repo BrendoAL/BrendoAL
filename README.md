@@ -63,7 +63,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrendoAL&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <br/>
