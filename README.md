@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EC1E4&center=true&vCenter=true&width=600&height=60&lines=Olá%2C+eu+sou+o+Brendo+Almeida;Desenvolvedor+Fullstack;Java+%7C+Spring+Boot+%7C+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EC1E4&center=true&vCenter=true&width=600&height=60&lines=Desenvolvedor+Fullstack;Java+%7C+Spring+Boot+%7C+Angular" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -29,25 +29,25 @@
       <br><b>Stacks</b><br><br>
       <div align="center">
         <br><br>
-        <img title="Java" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-        <img title="Spring Boot" alt="Spring Boot" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-        <img title="MySQL" alt="MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-        <img title="Docker" alt="Docker" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-        <img title="Kubernetes" alt="Kubernetes" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-        <img title="RabbitMQ" alt="RabbitMQ" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
-        <img title="Google Cloud Platform" alt="GCP" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-        <br><br>
-        <img title="JavaScript" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img title="TypeScript" alt="TypeScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-        <img title="Angular" alt="Angular" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-        <img title="Node.js" alt="Node.js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-        <br><br>
-        <img title="Git" alt="Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-        <img title="Postman" alt="Postman" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-        <img title="IntelliJ IDEA" alt="IntelliJ" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-        <img title="VS Code" alt="VS Code" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-        <img title="Windows" alt="Windows" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-        <img title="Linux" alt="Linux" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img title="Java" alt="Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img title="Spring Boot" alt="Spring Boot" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img title="MySQL" alt="MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img title="Docker" alt="Docker" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img title="Kubernetes" alt="Kubernetes" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img title="Amazon Web Services" alt="AWS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
+<img title="Kafka" alt="Kafka" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<br><br>    
+<img title="JavaScript" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img title="TypeScript" alt="TypeScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img title="Angular" alt="Angular" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img title="Node.js" alt="Node.js" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<br><br>
+<img title="Git" alt="Git" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img title="Postman" alt="Postman" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img title="IntelliJ IDEA" alt="IntelliJ" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+<img title="VS Code" alt="VS Code" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img title="Windows" alt="Windows" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+<img title="Linux" alt="Linux" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
       </div>
       <br>
     </td>
