@@ -58,9 +58,16 @@
 </table>
 <br/>
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=191819&title_color=CC121E&icon_color=CC121E&text_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&hide_border=true&langs_count=6&bg_color=191819&title_color=CC121E&text_color=ffffff" alt="Top languages" />
-  <br/>
+  <img 
+    height="165"
+    src="https://streak-stats.demolab.com?user=BrendoAL&theme=dark&hide_border=true&background=191819&ring=CC121E&fire=CC121E&currStreakLabel=CC121E"
+    alt="GitHub Streak"
+  />
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrendoAL&theme=github_dark"
+    alt="Top languages by repository"
+  />
 </div>
 <br/>
 <div align="center">
