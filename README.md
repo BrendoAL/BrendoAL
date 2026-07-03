@@ -1,28 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6EC1E4&center=true&vCenter=true&width=600&height=60&lines=Desenvolvedor+Fullstack;Java+%7C+Spring+Boot+%7C+Angular" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=CC121E&center=true&vCenter=true&width=600&height=60&lines=Fullstack+Developer;Java+%7C+Spring+Boot+%7C+Angular" alt="Typing SVG" />
 </div>
-
 <br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/brendoalmeidalk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-191819?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Brendoalmeidalk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-191819?style=for-the-badge&logo=gmail&logoColor=CC121E"/>
+  </a>
+  <a href="https://brendoal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-191819?style=for-the-badge&logo=googlechrome&logoColor=CC121E"/>
+  </a>
+  <a href="https://wa.me/5547988805984" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-CC121E?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
-
 <br/>
-
 <div align="center">
   <p align="justify">
-    Full-stack developer focused on creating robust APIs and web interfaces, i work with microservices architecture, monoliths, and container deployment, prioritizing performance, scalability, and clean code.
+    Fullstack developer focused on creating robust APIs and web interfaces, i work with microservices architecture, monoliths, and container deployment, prioritizing performance, scalability, and clean code.
   </p>
 </div>
-
 <br/>
-
 <table>
   <tr>
     <td width="65%" align="center">
@@ -52,25 +52,20 @@
       <br>
     </td>
     <td width="35%" align="center">
-      <img width="90%" src="sora.gif" alt="Sora GIF">
+      <img width="90%" src="morgana.gif" alt="Sora GIF">
     </td>
   </tr>
 </table>
-
 <br/>
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrendoAL&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=191819&title_color=CC121E&icon_color=CC121E&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrendoAL&layout=compact&hide_border=true&langs_count=6&bg_color=191819&title_color=CC121E&text_color=ffffff" alt="Top languages" />
   <br/>
 </div>
-
 <br/>
-
 <div align="center">
-  <img src="kingdomhearts.gif" width="250" alt="Kingdom Hearts GIF">
+  <img src="take-your-heart.gif" width="250" alt="Kingdom Hearts GIF">
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=008B8B&center=true&vCenter=true&width=500&height=40&lines=Take+your+heart" alt="Closing message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=CC121E&center=true&vCenter=true&width=500&height=40&lines={+<+/+>+}" alt="Closing message" />
 </div>
