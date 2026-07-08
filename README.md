@@ -61,12 +61,6 @@
     src="https://streak-stats.demolab.com?user=BrendoAL&theme=dark&hide_border=true&background=191819&ring=CC121E&fire=CC121E&currStreakLabel=CC121E"
     alt="GitHub Streak"
   />
-<div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrendoAL&theme=github_dark"
-    alt="Top languages by repository"
-  />
-</div>
 <br/>
 <div align="center">
   <img src="take-your-heart.gif" width="250" alt="Kingdom Hearts GIF">
