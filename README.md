@@ -34,7 +34,9 @@
 <img title="MySQL" alt="MySQL" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img title="Docker" alt="Docker" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img title="Kubernetes" alt="Kubernetes" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-<img title="Amazon Web Services" alt="AWS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    
+<img title="Amazon Web Services" alt="AWS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img title="Cloudflare" alt="Cloudflare" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+<img title="Railway" alt="Railway" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" />
 <br><br>    
 <img title="JavaScript" alt="JavaScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img title="TypeScript" alt="TypeScript" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
